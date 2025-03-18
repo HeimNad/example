@@ -1,6 +1,6 @@
 title: Eggsample Status
 buildFuture: true
-defaultContentLanguage: zh-Hans
+defaultContentLanguage: es
 languageCode: en
 baseURL: https://example.com
 theme: cstate
